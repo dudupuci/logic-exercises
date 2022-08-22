@@ -32,11 +32,6 @@ public class Program10 {
             System.out.println("Error captured: "+e.getMessage());
         }
 
-
-
-
-
-
         read.close();
     }
 }
